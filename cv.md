@@ -2,6 +2,7 @@
 ### Junior | Frontend Developer
 
 ---
+
 ### Contact information:
 
 **Phone:** +375 29 1793655<br>
@@ -9,11 +10,13 @@
 **Telegram:** @luchachik<br>
 
 ---
+
 ### Information about yourself:
 
     My goal is to develop in IT.
  
 ---
+
 ### Skills and Technologies:
 
 - HTML, CSS
@@ -25,6 +28,7 @@
 - Adobe Photoshop
 
 ---
+
 ### Code example:
 
 
@@ -44,11 +48,13 @@ experience is related to the layout and content filling.
 - privodgrand.by
 
 ---
+
 ### Education:
 
  Higher education software engineer BSUIR
  
 ---
+
 ### Languages:
 
 - English \- Pre-Intermediate 
